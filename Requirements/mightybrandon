@@ -1,12 +1,12 @@
-Animal Shelter Managing System
+Animal Shelter Managing Simulator game
 
 1   must be able to track animals in shelter
 2   must be able to track resources such as food and bedding
 3   must be able to track adoption requests / applications
-4   must allow data entry for the above information
-5   must connect to server for multi-user
-6   must allow user to manage database/website info within server
-7   follow-up to above: need a website and database connection
-8   must be accessible to non-tech literate users
-9   must be able to synchronize with veterinatry database
-10  must be able to aggregate data into appropriate readable/printable formats for physical printing
+4   must allow player to match animals to adopters
+5   must have graphical interface
+6   must have keyboard or button-based controls
+7   game should display current score
+8   must implement scoreboard that is persistent between plays
+9   game will support single-player operations
+10  must have end-state, such as when player manually quits or fails 
